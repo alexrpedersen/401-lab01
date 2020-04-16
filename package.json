@@ -1,0 +1,26 @@
+{
+  "name": "minimist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexrpedersen/401-lab01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexrpedersen/401-lab01/issues"
+  },
+  "homepage": "https://github.com/alexrpedersen/401-lab01#readme",
+  "dependencies": {
+    "is-url": "^1.2.4",
+    "jest": "^25.3.0"
+  }
+}

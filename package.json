@@ -21,6 +21,7 @@
   "homepage": "https://github.com/alexrpedersen/401-lab01#readme",
   "dependencies": {
     "is-url": "^1.2.4",
-    "jest": "^25.3.0"
+    "jest": "^25.3.0",
+    "superagent": "^5.2.2"
   }
 }

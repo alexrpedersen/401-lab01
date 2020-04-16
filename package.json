@@ -23,5 +23,8 @@
     "is-url": "^1.2.4",
     "jest": "^25.3.0",
     "superagent": "^5.2.2"
+  },
+  "devDependencies": {
+    "mongoose": "^5.9.9"
   }
 }
